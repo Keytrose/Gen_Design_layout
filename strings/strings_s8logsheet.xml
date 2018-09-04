@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<root>
+	<string name="s8_log_s8_log">AL S8 Logsheet</string>
+	<string name="char_logs_label_adv_chk">ADV CHECK</string>
+	<string name="char_logs_label_treasure_pt_tier1">T1</string>
+	<string name="char_logs_label_treasure_pt_tier2">T2</string>
+	<string name="char_logs_label_treasure_pt_tier3">T3</string>
+	<string name="char_logs_label_treasure_pt_tier4">T4</string>
+	<string name="log_magic_item">MAGIC ITEM UNLOCKS</string>
+	<string name="log_story_rewards">STORY REWARDS</string>
+	<string name="log_purchases">PURCHASES</string>
+</root>
+
+<!-- magicitemtitle.setReadOnly(bReadOnly);
+storyrewardstitle.setReadOnly(bReadOnly);
+purchasestitle    --> 

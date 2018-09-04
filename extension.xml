@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+
+
+<root version="3.0" icon="logo.png">
+	<properties>
+		<name>Adventurers League S8 log</name>
+		<version>0.2</version>
+		<author>Keytrose gaming LLC</author>
+		<description>Updates Adventure log for Season 8 rules</description>
+		<ruleset>
+			<name>5E</name>
+		</ruleset>
+	</properties>
+
+	<announcement text="Season 8 AL style log sheet for FG v3.3.5 5E ruleset.\r\nDesigned and Implemented by Keytrose gaming LLC." icon="Keytrose_Icon" font="emotefont" />
+
+	<base>
+		<!-- XML file containing new strings -->
+		<includefile source="strings/strings_s8logsheet.xml" />
+
+		<!-- XML file containing new images -->
+		<includefile source="graphics/graphics_icons.xml" />
+
+		<!-- Join Character Sheet -->
+		<includefile source="campaign/record_adventure.xml" />
+
+	</base>
+</root>
