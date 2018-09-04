@@ -5,7 +5,7 @@
 <root version="3.0" icon="logo.png">
 	<properties>
 		<name>Adventurers League S8 log</name>
-		<version>0.2</version>
+		<version>0.4</version>
 		<author>Keytrose gaming LLC</author>
 		<description>Updates Adventure log for Season 8 rules</description>
 		<ruleset>
