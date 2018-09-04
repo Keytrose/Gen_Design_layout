@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!--
+  Please see the license.html file included with this distribution for
+  attribution and copyright information.
+-->
+
+<root>
+<!-- LINK to the dev_doc
+http://www.fantasygrounds.com/wiki/index.php/Developer_Guide_-_Rulesets_-_Settings
+-->
+
+<!-- Define distance first
+
+<distance>
+  <base>5</base>
+  <diagmult>1</diagmult>
+  <suffix>'</suffix>
+</distance>
+
+-->
+
+<!-- dice are defined next
+EXAMPLE
+<die name="d4">
+  <icon>d4icon</icon>
+  <position>495,-70</position>
+</die>
+<die name="d6">
+  <icon>d6icon</icon>
+  <position>445,-70</position>
+</die>
+<die name="d8">
+  <icon>d8icon</icon>
+  <position>395,-70</position>
+</die>
+<die name="d10">
+  <icon>d10icon</icon>
+  <position>345,-70</position>
+</die>
+<die name="d12">
+  <icon>d12icon</icon>
+  <position>295,-70</position>
+</die>
+<die name="d20">
+  <icon>d20icon</icon>
+  <position>245,-70</position>
+</die>
+<die name="dF" merge="delete" />
+
+Examples taken from 5E ruleset
+-->
+
+<!-- Image settings next
+EXAMPLE
+<imagesettings>
+  <pointer defaultconeangle="5E" />
+</imagesettings>
+This defines how the ruleset draws a cone there is a lot more to this than
+one would expect at first. Check the docs
+http://www.fantasygrounds.com/wiki/index.php/Custom_Pointers_Coding_Toolkit
+
+There is a lot more than cone angle that can be done here. Many ruleset wide settings can be effected here
+from the hotkeys, tooltips, diagle distance, frames, margins, etc.
+
+
+-->
+
+
+
+</root>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!--
+  Please see the license.html file included with this distribution for
+  attribution and copyright information.
+-->
+
+<root version="3.0" release="8" logo="logo.png">
+	<announcement text="STOCK ruleset v3.3.5A for Fantasy Grounds\rCopyright 2015 Smiteworks USA, LLC" font="emotefont" icon="rulesetlogo" />
+
+	<!-- Attributes -->
+	<description>
+		<text>Dungeons &amp; Dragons fifth edition ruleset</text>
+		<author>SmiteWorks USA, LLC</author>
+		<website>http://www.fantasygrounds.com</website>
+	</description>
+
+	<!-- Layers -->
+
+  <!-- Tabletop settings -->
+
+  <!-- Graphics -->
+
+	<!-- Strings -->
+
+  <!-- Common -->
+
+  <!-- Desktop -->
+
+  <!-- Utility -->
+
+  <!-- Reference -->
+
+  <!-- Campaign Records -->
+
+  <!-- Forge -->
+
+  <!-- Combat tracker -->
+
+  <!-- Party sheet -->
+
+  <!-- High-level scripts -->
+
+
+</root>
